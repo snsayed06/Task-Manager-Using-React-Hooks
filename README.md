@@ -1,8 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Preview](task-manager.png?raw=true)
+
+## Description 
+
+A task management application is also known as a Todo-List app which is created using HTML5, CSS3, JS, and React(Hooks). the difference about this application is that it has built-in local storage that stores the data on your browser so that each user whoever is using this application can manage the state independently.
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install all the dependencies
 
 ### `npm start`
 
