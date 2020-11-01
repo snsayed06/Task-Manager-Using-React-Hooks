@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Header from "./components/Header";
 import Form from "./components/Form";
 import TodoList from "./components/TodoList";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
@@ -62,7 +62,7 @@ function App() {
         setTodos={setTodos}
         filteredTodos={filteredTodos}
       />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
